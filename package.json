@@ -1,0 +1,22 @@
+{
+  "name": "basicbot",
+  "version": "1.0.0",
+  "description": "trying to code in node.js for the first time and want to do it in TDD.",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlnrose/JSDiscordBot.git"
+  },
+  "author": "Nolan-Ryan Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlnrose/JSDiscordBot/issues"
+  },
+  "homepage": "https://github.com/nlnrose/JSDiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
